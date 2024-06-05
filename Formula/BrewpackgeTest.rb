@@ -1,4 +1,4 @@
-class BrewPackgeTest < Formula
+class BrewpackgeTest < Formula
   desc "A Spring Boot application"
   homepage "https://github.com/jesli96/homebrew-brewpackgetest"
   url "https://github.com/jesli96/homebrew-brewpackgetest/releases/download/1.0/updatedep-0.0.1-SNAPSHOT.jar"
