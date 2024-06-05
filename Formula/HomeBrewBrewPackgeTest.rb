@@ -16,6 +16,6 @@ class HomeBrewBrewPackgeTest < Formula
   end
 
   test do
-    system "#{bin}/brewpackgetest", "--version"
+    system "#{bin}/homebrew-brewpackgetest", "--version"
   end
 end
